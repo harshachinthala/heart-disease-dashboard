@@ -99,7 +99,7 @@ runApp("app.R")
 ## App Results
 
 Below is a sample screenshot of the app’s prediction result and data visualization:
-
+![image](https://github.com/user-attachments/assets/ea8cd152-a0c7-41b3-b6f3-1b280b5da27e)
 
 
 ---
