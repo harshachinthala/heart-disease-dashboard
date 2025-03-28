@@ -1,0 +1,12 @@
+name: Heartproject
+title: Heartproject
+username: harsha-chinthala
+account: harsha-chinthala
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14362938
+bundleId: 10015885
+url: https://harsha-chinthala.shinyapps.io/Heartproject/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
