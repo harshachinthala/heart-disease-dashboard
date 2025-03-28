@@ -101,11 +101,8 @@ runApp("app.R")
 Below is a sample screenshot of the app’s prediction result and data visualization:
 
 ```html
-![Uploading res<img width="1470" alt="result1" src="https://github.com/user-attachments/assets/619b2256-f438-4c8c-8b0f-0368fd67f00e" />
-<img width="1470" alt="result2" src="https://github.com/user-attachments/assets/6b86cac2-c2d1-403c-b67d-da2e6ed5a473" />
-
-
-
+![App Result](result1.png)
+![App Result](result2.png)
 ```
 
 ---
