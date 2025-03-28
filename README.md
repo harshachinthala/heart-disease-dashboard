@@ -100,10 +100,7 @@ runApp("app.R")
 
 Below is a sample screenshot of the app’s prediction result and data visualization:
 
-```html
-![App Result](result1.png)
-![App Result](result2.png)
-```
+
 
 ---
 
