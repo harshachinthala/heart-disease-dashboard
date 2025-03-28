@@ -100,25 +100,17 @@ runApp("app.R")
 
 Below is a sample screenshot of the app’s prediction result and data visualization:
 ![image](https://github.com/user-attachments/assets/ea8cd152-a0c7-41b3-b6f3-1b280b5da27e)
+![image](https://github.com/user-attachments/assets/d782890c-35f1-4ed7-8a76-89b48b153bc6)
 
 
 ---
+## Conclusion
 
-## Contribution
+The Heart Disease Prediction Shiny App is a step towards using technology to better understand and manage our health. By offering an interactive, easy-to-use platform, the app allows users to quickly assess their heart disease risk based on key health indicators like age, cholesterol levels, and blood pressure. This kind of early assessment can empower individuals to take proactive steps toward improving their heart health.
 
-Contributions to this project are welcome! If you'd like to contribute:
+Built using Shiny for the web interface, caret for machine learning, and ggplot2 for visualizations, this project highlights the potential of R to create accessible, informative tools that blend data science with real-world applications. The app offers a glimpse into how AI and predictive models can enhance healthcare by making it more personalized and preventative.
 
-1. Fork the repository.
-2. Make your changes.
-3. Create a pull request.
-
-Feel free to suggest improvements, add new features, or report bugs.
-
----
-
-## License
-
-This project is licensed under the **MIT License**. See the [`LICENSE.md`](LICENSE.md) file for more information.
+Looking ahead, there’s a lot of room to build on this project. Adding more detailed health data, improving the accuracy of predictions, and integrating additional features could make it even more useful. Overall, this project reflects the exciting possibilities of combining AI with healthcare to help individuals make informed, confident decisions about their well-being.
 
 ---
 
