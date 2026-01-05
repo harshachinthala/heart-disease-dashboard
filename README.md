@@ -6,6 +6,17 @@ The **Heart Disease Prediction Shiny App** is a web-based application built usin
 
 The app leverages machine learning algorithms to analyze the data and provide valuable insights into heart disease risk factors. The goal of this project is to assist individuals in understanding their health conditions and to provide healthcare professionals with a simple, yet effective tool for early heart disease risk detection.
 
+### 🧠 Skills & Technologies
+
+![R](https://img.shields.io/badge/R-Programming-blue)
+![Shiny](https://img.shields.io/badge/Shiny-Web%20Application-orange)
+![Machine%20Learning](https://img.shields.io/badge/Machine%20Learning-Classification-green)
+![caret](https://img.shields.io/badge/caret-Model%20Training-red)
+![Data%20Visualization](https://img.shields.io/badge/Data%20Visualization-ggplot2-purple)
+![tidyverse](https://img.shields.io/badge/tidyverse-Data%20Wrangling-lightgrey)
+![Healthcare%20Analytics](https://img.shields.io/badge/Healthcare%20Analytics-Risk%20Prediction-success)
+
+
 ## Key Features:
 - **Interactive Prediction**: Users can input their personal health data (such as age, cholesterol levels, blood pressure) into the app to receive an immediate prediction of their likelihood of having heart disease.
 - **Data Visualization**: The app offers interactive charts and graphs, helping users to visualize patterns in the dataset and understand how various health factors contribute to heart disease risk.
